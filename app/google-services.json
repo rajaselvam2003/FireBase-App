@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830026762880",
+    "project_id": "fir-activity-a913e",
+    "storage_bucket": "fir-activity-a913e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830026762880:android:ccc86a823fa0f2bb65b465",
+        "android_client_info": {
+          "package_name": "com.example.firebaseactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830026762880-p4dnnetmf087s6eoglasminra87qn5h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMpQ7cxqd6LUArZb5mPO6qLVQEw0c6Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830026762880-p4dnnetmf087s6eoglasminra87qn5h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
